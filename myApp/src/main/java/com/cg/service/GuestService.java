@@ -1,6 +1,6 @@
 package com.cg.service;
 
-import com.cg.entity.Guest;
+import com.cg.entities.Guest;
 
 public interface GuestService {
 

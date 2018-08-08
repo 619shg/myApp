@@ -5,7 +5,7 @@ import static org.junit.Assert.assertNotNull;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.cg.entity.Guest;
+import com.cg.entities.Guest;
 import com.cg.service.GuestServiceImpl;
 
 public class GuestServiceTest extends BootJdbctemplateApplicationTests {

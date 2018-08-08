@@ -9,10 +9,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
-import com.cg.entity.Dining;
-import com.cg.entity.DiningRowMapper;
-import com.cg.entity.Resort;
-import com.cg.entity.ResortRowMapper;
+import com.cg.entities.Dining;
+import com.cg.entities.DiningRowMapper;
+import com.cg.entities.Resort;
+import com.cg.entities.ResortRowMapper;
 
 @Repository
 public class BookingDAOImpl implements BookingDAO {

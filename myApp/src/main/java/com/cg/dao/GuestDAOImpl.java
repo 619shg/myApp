@@ -9,8 +9,8 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Repository;
 
-import com.cg.entity.Guest;
-import com.cg.entity.GuestRowMapper;
+import com.cg.entities.Guest;
+import com.cg.entities.GuestRowMapper;
 
 @Repository
 public class GuestDAOImpl implements GuestDAO {

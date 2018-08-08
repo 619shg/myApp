@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.cg.dao.GuestDAO;
-import com.cg.entity.Guest;
+import com.cg.entities.Guest;
 
 @Transactional
 @Service

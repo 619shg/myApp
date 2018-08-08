@@ -1,6 +1,6 @@
 package com.cg.dao;
 
-import com.cg.entity.Guest;
+import com.cg.entities.Guest;
 
 public interface GuestDAO {
 

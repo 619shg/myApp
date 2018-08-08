@@ -2,8 +2,8 @@ package com.cg.dao;
 
 import java.util.List;
 
-import com.cg.entity.Dining;
-import com.cg.entity.Resort;
+import com.cg.entities.Dining;
+import com.cg.entities.Resort;
 
 public interface BookingDAO {
 

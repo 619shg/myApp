@@ -9,8 +9,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.cg.dao.BookingDAO;
-import com.cg.entity.Dining;
-import com.cg.entity.Resort;
+import com.cg.entities.Dining;
+import com.cg.entities.Resort;
 
 @Transactional
 @Service

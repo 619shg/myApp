@@ -8,8 +8,8 @@ import java.util.Date;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.cg.entity.Guest;
-import com.cg.entity.Resort;
+import com.cg.entities.Guest;
+import com.cg.entities.Resort;
 import com.cg.service.BookingServiceImpl;
 
 public class BookingServiceTest extends BootJdbctemplateApplicationTests {
